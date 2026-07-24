@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>문래 클럽 추천 가이드</title>
+  <rect width="64" height="64" rx="14" fill="hsl(88 72% 22%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(185 68% 64%)" opacity="0.16"/>
+  <g transform="rotate(0 32 32)"><circle cx="16" cy="16" r="5" fill="hsl(88 24% 96%)"/><circle cx="32" cy="16" r="5" fill="hsl(88 24% 96%)"/><circle cx="48" cy="16" r="5" fill="hsl(88 24% 96%)"/><circle cx="16" cy="32" r="5" fill="hsl(88 24% 96%)"/><circle cx="32" cy="32" r="6" fill="hsl(185 68% 64%)"/><circle cx="48" cy="32" r="5" fill="hsl(88 24% 96%)"/><circle cx="16" cy="48" r="5" fill="hsl(88 24% 96%)"/><circle cx="32" cy="48" r="5" fill="hsl(88 24% 96%)"/><circle cx="48" cy="48" r="5" fill="hsl(88 24% 96%)"/></g>
+</svg>
