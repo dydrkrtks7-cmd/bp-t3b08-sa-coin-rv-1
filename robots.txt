@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://mullae-club-note.cheongdam-shirts-zone.xyz/sitemap.xml
+Sitemap: https://mullae-club-note.cheongdam-shirts-zone.xyz/sitemap-pages.xml
